@@ -55,6 +55,3 @@ A API não filtra por disciplina, então esse filtro é aplicado no navegador de
 - **"Não foi possível carregar":** falha de rede ou limite da API. Use o botão "Tentar de novo".
 - **Respostas sumiram:** o `localStorage` é por navegador e por endereço. Mudar a porta do servidor, por exemplo, começa do zero.
 
-## Créditos
-
-Dados da [API ENEM](https://github.com/yunger7/enem-api), projeto aberto da comunidade
